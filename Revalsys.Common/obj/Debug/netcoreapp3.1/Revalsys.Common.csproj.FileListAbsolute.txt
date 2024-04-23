@@ -1,0 +1,20 @@
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\bin\Debug\netcoreapp3.1\Revalsys.Common.deps.json
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.AssemblyInfo.cs
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.dll
+C:\Users\acer\Desktop\Revalsys\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.pdb
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\bin\Debug\netcoreapp3.1\Revalsys.Common.deps.json
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.AssemblyInfo.cs
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.dll
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.Common\obj\Debug\netcoreapp3.1\Revalsys.Common.pdb

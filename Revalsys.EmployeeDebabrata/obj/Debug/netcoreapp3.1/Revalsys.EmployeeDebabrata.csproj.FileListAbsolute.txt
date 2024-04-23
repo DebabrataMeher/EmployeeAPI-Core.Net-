@@ -1,0 +1,26 @@
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.deps.json
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.dll
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.pdb
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.AssemblyInfo.cs
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.csproj.CopyComplete
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.dll
+C:\Users\acer\Desktop\Revalsys\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.pdb
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.deps.json
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.dll
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.pdb
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.AssemblyInfo.cs
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.csproj.CopyComplete
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.dll
+C:\Users\acer\Desktop\Revalsys\Serilog Use\Revalsys.EmployeeDebabrata\obj\Debug\netcoreapp3.1\Revalsys.EmployeeDebabrata.pdb
